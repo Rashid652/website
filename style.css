@@ -120,3 +120,7 @@ ul {
     line-height: 36px;
     color: #FFFFFF;
 }
+
+body {
+    background: #555;
+}
